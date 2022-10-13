@@ -1,0 +1,20 @@
+{
+  "name": "template-engine",
+  "version": "1.0.0",
+  "description": "project that get specific files and create template files from that one",
+  "main": "engine.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "template-engine"
+  },
+  "keywords": [
+    "template",
+    "engine"
+  ],
+  "author": "antialgos",
+  "license": "MIT",
+  "dependencies": {}
+}
